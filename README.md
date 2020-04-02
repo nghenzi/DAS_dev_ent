@@ -1,7 +1,8 @@
 # DAS entorno de desarrollo
 
-Este programa funciona en python 3.8
-se puede hacer un entorno virtual con 
+Este programa funciona en python 3.8.
+
+Se puede hacer un entorno virtual con 
 conda create -n name_env python=3.8
 y luego 
 conda activate name_env
