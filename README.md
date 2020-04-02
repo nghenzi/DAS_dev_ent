@@ -13,3 +13,6 @@ conda activate name_env
  Para instalar los paquetes que necesita en la carpeta donde estan todos los archivos 
 
 pip install -r requirements.txt
+
+
+## Para cargar los datos hay que seleccionar la carpeta STD correspondiente en la pestania data/load data. L
